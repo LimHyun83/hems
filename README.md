@@ -120,13 +120,11 @@ Markdown은 설명·리뷰·합의에 적합하다.
 ```text
 /HEMS
  ├─ README.md              # 본 문서
- ├─ product
+ ├─ spec/
  │   ├─ README.md          # App/Admin 기능명세서 가이드
- │   └─ spec/
- │       ├─ COM/
- │       ├─ NOW/
- │       ├─ DAT/
- │       └─ ...
+ │   ├─ COM/
+ │   ├─ DAT/
+ │   └─ ...
  ├─ csv/
  │   ├─ HEMS_기능명세서 - App_기능명세서.csv
  │   └─ HEMS_기능명세서 - Admin_기능명세서.csv
