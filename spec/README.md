@@ -45,11 +45,11 @@ spec/
  ├─ SET/
  ├─ VAL/
  ├─ NOT/
- ├─ MEMCON/
- ├─ MEMHIS/
- ├─ ADMMAN/
- ├─ ADDMEM/
- └─ APPMEM/
+ ├─ MEM_CON/
+ ├─ MEM_HIS/
+ ├─ ADM_MAN/
+ ├─ ADD_MEM/
+ └─ APP_MEM/
 ```
 
 * Group 단위로 디렉터리를 구성한다.
