@@ -38,16 +38,18 @@ App / Admin 간 차이가 필요한 경우에는 **문서 내부에서 명시적
 spec/
  ├─ README.md              # 본 문서
  ├─ COM/
- │   ├─ README.md
  │   └─ COM_001.md
  ├─ NOW/
- │   ├─ README.md
- │   └─ NOW_006.md
+ │   └─ NOW_001.md
  ├─ DAT/
  ├─ SET/
  ├─ VAL/
  ├─ NOT/
- └─ MEM_HIS/
+ ├─ MEMCON/
+ ├─ MEMHIS/
+ ├─ ADMMAN/
+ ├─ ADDMEM/
+ └─ APPMEM/
 ```
 
 * Group 단위로 디렉터리를 구성한다.
